@@ -25,7 +25,7 @@ This game aims to educate, especially the youth, about agriculture while promoti
 * **Simulator:** MARS (MIPS Assembler and Runtime Simulator)
 
 ### How to Run
-1.  **Download MARS:** [http://courses.missouristate.edu/KenVollmar/MARS/](http://courses.missouristate.edu/KenVollmar/MARS/)
+1.  **Download MARS:** https://computerscience.missouristate.edu/mars-mips-simulator.htm  
 2.  Open MARS.
 3.  Go to `File` -> `Open` and select `AgriTriv.asm`.
 4.  Click `Run` -> `Assemble` (or press **F3**).
@@ -34,7 +34,7 @@ This game aims to educate, especially the youth, about agriculture while promoti
 
 ---
 
-## ❓ Project Q&A
+## Project Q&A
 
 **Q: What is the main goal of the AgriTriv game?**
 **A:** The main goal is to educate players, especially the youth, about agriculture in a fun and engaging way using trivia questions, while also promoting interest in the field and breaking the stigma around agriculture.
